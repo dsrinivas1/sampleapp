@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style = {{color: 'red'}}>
+    <div className="App" style = {{color: 'red', fontSize: '64px'}}>
 
       {"this is my first app"}
           </div>
